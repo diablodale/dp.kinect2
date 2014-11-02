@@ -7,16 +7,16 @@
 Quick Notes
 ============
 
-* The current beta supports: depths, color images, IR, playermaps, skeletal tracking, point clouds, accelerometer, and some activities like opening/closing of hands.
-* The final release will additionally support: face tracking, sound tracking, speech recognition, and more…
+* The current beta supports: depths, color images, IR, playermaps, skeletal tracking, point clouds, accelerometer, sound tracking, basic face tracking, and some activities like opening/closing of hands.
+* The final release will additionally support: detailed face tracking, speech recognition, and more…
 * It is primarily developed and tested with Max 6.x for 32 and 64-bit platforms.
-* It is based on the official Microsoft Kinect v2 platform. You will need at least v2.0 public preview of the Kinect v2 runtime/drivers to use this external.
+* It is based on the official Microsoft Kinect v2 platform.
 * It is compatible with your dp.kinect patches. You may only have to add a "2" to the object name.
 
 Known Issues
 ============
 
-The quality of this beta is not representative of the final product; just as the Microsoft Kinect v2 drivers are not representative of their final quality. You may encounter bugs or less than full performance. I do not recommend using dp.kinect2 beta in any critical or live production scenario.
+The quality of this beta is not representative of the final product. You may encounter bugs or less than full performance. I do not recommend using dp.kinect2 beta in any critical or live production scenario.
 
 More details at https://github.com/diablodale/dp.kinect2/wiki
 
