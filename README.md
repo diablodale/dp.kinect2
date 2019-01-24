@@ -16,18 +16,15 @@ Quick Notes
 Known Issues
 ============
 
-The quality of this beta is not representative of the final product. You may encounter bugs or less than full performance. I do not recommend using dp.kinect2 beta in any critical or live production scenario.
 
-More details at https://github.com/diablodale/dp.kinect2/wiki
+Known issues are at https://github.com/diablodale/dp.kinect2/wiki and individual issue reports at https://github.com/diablodale/dp.kinect2/issues
 
 Licensing, Terms of Use, Conditions, and Warranty
 ==============================
 
-Please visit http://hidale.com/terms/ for all licensing, terms of use, conditions, and warranty information.
+Please visit https://hidale.com/terms/ for all licensing, terms of use, conditions, and warranty information.
 
 Setup Guide and Documentation
 ==============================
-
-dp.kinect2 is in limited beta testing. Please visit http://hidale.com/shop/dp-kinect2/ to request access to the beta and the download.
 
 Setup guide and reference documentation is at https://github.com/diablodale/dp.kinect2/wiki. You can also find information in the Max inspector when selecting dp.kinect2 or implied with the usage examples in the dp.kinect2 ZIP download.
