@@ -1,7 +1,7 @@
 ****************************************************************************
   dp.kinect2 - Microsoft Kinect v2 extension for Cycling '74 Max
 
-  Copyright (C) 2013-2014 Dale Phurrough
+  Copyright (C) 2013-2019 Dale Phurrough
 ****************************************************************************
 
 Quick Notes
