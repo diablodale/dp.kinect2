@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Error report
+about: Report bugs, feature problems, and registration failures
 title: ''
 labels: ''
 assignees: diablodale
