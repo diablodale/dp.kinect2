@@ -9,6 +9,10 @@ Setup Guide and Documentation
 
 Setup guide and reference documentation is at https://github.com/diablodale/dp.kinect2/wiki. You can also find information in the Max inspector when selecting dp.kinect2 or implied with the usage examples in the dp.kinect2 ZIP download.
 
+Download
+==========
+The dp.kinect download is available from https://hidale.com/shop/dp-kinect2/
+
 Features
 ============
 
