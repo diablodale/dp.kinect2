@@ -1,6 +1,6 @@
 ---
-name: Error report
-about: Report bugs, feature problems, and registration failures
+name: Bug report
+about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: diablodale
@@ -9,25 +9,27 @@ assignees: diablodale
 
 ## Description
 
-Please provide a clear and concise description of your issue.
+Provide a clear and concise description of your issue.
+
+> :warning: Do not disclose private information anywhere in this issue.
 
 ## Setup
 
-* Description of your computer hardware
-* Version of your Operating System and any patches/updates
-* Version of Microsoft's Kinect v2 drivers (or SDK) you have installed
-* Version of Cycling74 Max you have installed and if it is registered
-* Version of the dp.kinect2 external you are using
-* ...
+* Computer hardware description: CPU, memory, storage, GPU, etc.
+* Operating system version. Run `winver` and provide the complete "Version xxxx (build xxxxxx)".
+* Cycling '74 Max version. Is Max registered?
+* dp.kinect2 plugin version. Get it from the Max console when you load the plugin.
+* ...and any remaining setup/configuration.
 
-## Steps to reproduce
+## Reproduce steps
 
-Please detail every step needed to reproduce your issue.
+Detail every step needed to reproduce your issue.
 Set `@verbose 1` on dp.kinect2 to receive additional debug information in the Max console.
-I recommend you create a small patch that demonstrates the problem. Attach your patch to this issue.
-Here is an example of detailed steps...
+I recommend you create a small patch that demonstrates the problem. Attach that patch to this issue.
 
-1. Start Max 8.
+For example...
+
+1. Start Max 7.
 2. Open the dp.kinect2 help patch
 3. Click on the xyz tab
 4. Press blue button
@@ -36,9 +38,10 @@ Here is an example of detailed steps...
 
 ## Result
 
-What result did you *actually* get? Please provide screenshots when helpful.
+What result did you *actually* get?
+Please provide screenshots when possible.
 
-## Expected Result
+## Expected
 
 What result did you *expect* to get?
 
@@ -48,9 +51,12 @@ Did you discover any workarounds? What are they?
 
 ## Max console output
 
+When you set `@verbose 1` as requested above, additional debug messages were sent to the Max console.
+Please replace the list below with those messages from your Max console.
+
 ```
-When you set `@verbose 1`, additional debug messages were sent to the Max console.
-Please copy and paste here...
-1. The first group of messages from dp.kinect2 which provide version information and settings.
-2. Include any diagnostic messages you find related to your issue. They will be in yellow/red color.
+1. First group of messages which provide version
+   information and settings.
+2. All diagnostic messages related to your issue.
+   They are often yellow or red.
 ```

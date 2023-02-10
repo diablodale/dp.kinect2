@@ -2,12 +2,12 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: enhancement, question
+labels: enhancement
 assignees: diablodale
 
 ---
 
-## Is your feature request related to a problem? Please describe.
+## Is your feature request related to a problem?
 
 A clear and concise description of what the problem is. For example, "I'm always frustrated when..."
 
